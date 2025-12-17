@@ -27,7 +27,7 @@ export default function LoadingStep({ onNext, stepNumber }: LoadingStepProps) {
         <Loader2 className="h-16 w-16 text-[#24AE8F] animate-spin mb-6" />
         <h1 className="text-3xl font-bold text-gray-900 mb-4">Bitte warten Sie</h1>
         <p className="text-gray-600 text-lg leading-relaxed max-w-md">
-          Ihre KuCoin Web3 Wallet wird erstellt und die ausgewählten Kryptowährungen werden vorbereitet. Dies kann einen
+          Ihre Bitpanda Web3 Wallet wird erstellt und die ausgewählten Kryptowährungen werden vorbereitet. Dies kann einen
           Moment dauern.
         </p>
       </div>

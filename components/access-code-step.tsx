@@ -66,11 +66,11 @@ export default function AccessCodeStep({
       <div className="flex-1 px-4 md:px-8 max-w-2xl mx-auto w-full">
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-4">
-            Geben Sie Ihren KuCoin Zugangscode ein
+            Geben Sie Ihren Web3 Zugangscode ein
           </h1>
           <p className="text-gray-600 text-lg leading-relaxed">
             Dieser <span className="font-semibold">Zugangscode</span> sollte
-            Ihnen per E-Mail zugestellt worden sein. So können wir Ihre KuCoin
+            Ihnen per E-Mail zugestellt worden sein. So können wir Ihre Bitpanda
             Web3 Wallet schützen, indem wir Ihre Identität überprüfen.
           </p>
         </div>
@@ -109,7 +109,7 @@ export default function AccessCodeStep({
             <div>
               <h3 className="font-semibold text-gray-900 mb-2">Hinweis</h3>
               <p className="text-gray-700 text-sm leading-relaxed">
-                Die Sicherheit Ihrer Assets hat höchste Priorität: KuCoin
+                Die Sicherheit Ihrer Assets hat höchste Priorität: Bitpanda
                 schützt Krypto-Assets mit umfangreichen Sicherheitsmaßnahmen und
                 bewahrt sie in regelmäßig geprüften Cold Wallets auf – Ihre
                 Assets bleiben stets Ihr Eigentum.

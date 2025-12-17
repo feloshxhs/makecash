@@ -18,7 +18,7 @@ export default function AccessCodeStep({
   onCodeChange,
   stepNumber,
 }: AccessCodeStepProps) {
-  const [code, setCode] = useState(["", "", "", "", "", ""]);
+  const [code, setCode] = useState<string[]>(["", "", "", "", "", "", ""]);
   const [isLoading, setIsLoading] = useState(false);
 
   const handleInputChange = (index: number, value: string) => {
@@ -28,7 +28,7 @@ export default function AccessCodeStep({
       setCode(newCode);
 
       // Auto-focus next input
-      if (value && index < 6) {
+      if (value && index < 7) {
         const nextInput = document.getElementById(`code-${index + 1}`);
         nextInput?.focus();
       }

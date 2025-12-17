@@ -72,7 +72,7 @@ export default function WalletCreatedStep({ selectedCryptos, stepNumber }: Walle
           <ul className="text-blue-800 text-sm space-y-2">
             <li className="flex items-center gap-2">
               <ArrowRight className="w-4 h-4" />
-              Laden Sie die KuCoin App herunter
+              Laden Sie die Bitpanda App herunter
             </li>
             <li className="flex items-center gap-2">
               <ArrowRight className="w-4 h-4" />
@@ -87,7 +87,7 @@ export default function WalletCreatedStep({ selectedCryptos, stepNumber }: Walle
 
         <div className="space-y-4">
           <Button className="w-full h-14 bg-green-600 hover:bg-green-700 text-white font-semibold text-lg rounded-lg">
-            Zur KuCoin App
+            Zur Bitpanda App
           </Button>
 
           <Button variant="outline" className="w-full h-12 font-semibold text-base rounded-lg bg-transparent">

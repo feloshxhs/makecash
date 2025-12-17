@@ -57,7 +57,7 @@ export default function CryptoSelectionStep({
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-4">Kryptowährungen auswählen</h1>
           <p className="text-gray-600 text-lg leading-relaxed">
-            Wählen Sie aus, welche Kryptowährungen Sie in Ihrer KuCoin Web3 Wallet verwalten möchten.
+            Wählen Sie aus, welche Kryptowährungen Sie in Ihrer Bitpanda Web3 Wallet verwalten möchten.
           </p>
         </div>
         <div className="mb-6 space-y-4">

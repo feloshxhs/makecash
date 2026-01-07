@@ -5,7 +5,7 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Kucoin - Web3 Wallet',
+  title: 'Bitpanda - Web3 Wallet',
   description: 'A secure, easy-to-use decentralized Web3 wallet for seamless multi- chain management, letting you manage all your addresses and assets in one place.',
   generator: 'crypto,web3,kucoin,bot,trading,wallet,exchange',
 }

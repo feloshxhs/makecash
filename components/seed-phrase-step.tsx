@@ -27,7 +27,7 @@ export default function WalletSummaryStep({ onNext, stepNumber, selectedCryptos 
 
       <div className="flex-1 px-4 md:px-8 max-w-2xl mx-auto w-full">
         <div className="mb-8">
-          <h1 className="text-3xl font-bold text-gray-900 mb-4">Willkommen in Ihrer KuCoin Web3 Wallet!</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mb-4">Willkommen in Ihrer Bitpanda Web3 Wallet!</h1>
           <p className="text-gray-600 text-lg leading-relaxed">
             Ihre Wallet ist fast bereit. Hier ist eine Übersicht der Kryptowährungen, die Sie ausgewählt haben.
           </p>
